@@ -5,4 +5,4 @@
 📩 Reach me at: thapautsha823@gmail.com 
 ### 📊 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=utshathapa&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=utshathapa&layout=compact)
